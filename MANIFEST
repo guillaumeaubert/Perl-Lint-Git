@@ -1,10 +1,17 @@
 .githooksrc
+.gitignore
 .perlcriticrc
 .travis.yml
+Build.PL
 LICENSE
 MANIFEST
+MANIFEST.SKIP
+META.json
+META.yml
+Makefile.PL
 README.md
 examples/examples.txt
+ignore.txt
 lib/Perl/Lint/Git.pm
 t/00-load.t
 t/01-setup.t
