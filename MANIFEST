@@ -1,3 +1,6 @@
+.githooksrc
+.perlcriticrc
+.travis.yml
 LICENSE
 MANIFEST
 README.md
