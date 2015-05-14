@@ -5,3 +5,4 @@ LICENSE
 MANIFEST
 README.md
 examples/examples.txt
+lib/Perl/Lint/Git.pm
