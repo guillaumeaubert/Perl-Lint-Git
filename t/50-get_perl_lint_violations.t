@@ -62,6 +62,7 @@ is(
 
 is_deeply(
 	[
+		sort
 		map { $_->{'policy'} }
 		@$violations
 	],
