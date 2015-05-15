@@ -12,7 +12,7 @@ use Perl::Lint qw();
 
 =head1 NAME
 
-Perl::Lint::Git - Bond git and Perl::Lint to blame the right people for violations.
+Perl::Lint::Git - Connect git and Perl::Lint to blame the right people for violations.
 
 
 =head1 VERSION

@@ -5,7 +5,7 @@ Perl-Lint-Git
 [![Coverage Status](https://coveralls.io/repos/guillaumeaubert/Perl-Lint-Git/badge.svg?branch=master)](https://coveralls.io/r/guillaumeaubert/Perl-Lint-Git?branch=master)
 [![CPAN](https://img.shields.io/cpan/v/Perl-Lint-Git.svg)](https://metacpan.org/release/Perl-Lint-Git)
 
-Bond git and Perl::Lint to blame the right people for violations.
+Connect git and Perl::Lint to blame the right people for violations.
 
 
 INSTALLATION
