@@ -36,7 +36,7 @@
             "File::Basename" : "0",
             "Git::Repository" : "0",
             "Git::Repository::Plugin::Blame" : "0",
-            "Perl::Lint" : "0",
+            "Perl::Lint" : "0.21",
             "perl" : "5.006"
          }
       }

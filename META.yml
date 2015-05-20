@@ -28,7 +28,7 @@ requires:
   File::Basename: '0'
   Git::Repository: '0'
   Git::Repository::Plugin::Blame: '0'
-  Perl::Lint: '0'
+  Perl::Lint: '0.21'
   perl: '5.006'
 resources:
   bugtracker: https://github.com/guillaumeaubert/Perl-Lint-Git/issues
