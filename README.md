@@ -4,6 +4,7 @@ Perl-Lint-Git
 [![Build Status](https://travis-ci.org/guillaumeaubert/Perl-Lint-Git.svg?branch=master)](https://travis-ci.org/guillaumeaubert/Perl-Lint-Git)
 [![Coverage Status](https://coveralls.io/repos/guillaumeaubert/Perl-Lint-Git/badge.svg?branch=master)](https://coveralls.io/r/guillaumeaubert/Perl-Lint-Git?branch=master)
 [![CPAN](https://img.shields.io/cpan/v/Perl-Lint-Git.svg)](https://metacpan.org/release/Perl-Lint-Git)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
 Connect git and Perl::Lint to blame the right people for violations.
 
