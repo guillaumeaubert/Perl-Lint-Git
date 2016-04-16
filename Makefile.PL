@@ -10,6 +10,7 @@ WriteMakefile
   'VERSION_FROM' => 'lib/Perl/Lint/Git.pm',
   'PREREQ_PM' => {
                    'Test::Git' => 0,
+                   'Test::Git' => 1.005,
                    'Test::Exception' => 0,
                    'Test::FailWarnings' => 0,
                    'Data::Dumper' => 0,
