@@ -46,7 +46,7 @@
    "provides" : {
       "Perl::Lint::Git" : {
          "file" : "lib/Perl/Lint/Git.pm",
-         "version" : "v1.0.2"
+         "version" : "v1.1.0"
       }
    },
    "release_status" : "stable",
@@ -62,5 +62,5 @@
          "url" : "https://github.com/guillaumeaubert/Perl-Lint-Git"
       }
    },
-   "version" : "v1.0.2"
+   "version" : "v1.1.0"
 }

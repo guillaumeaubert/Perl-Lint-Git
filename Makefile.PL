@@ -3,25 +3,25 @@ require 5.006;
 use ExtUtils::MakeMaker;
 WriteMakefile
 (
-  'NAME' => 'Perl::Lint::Git',
-  'INSTALLDIRS' => 'site',
   'PL_FILES' => {},
-  'EXE_FILES' => [],
-  'VERSION_FROM' => 'lib/Perl/Lint/Git.pm',
+  'INSTALLDIRS' => 'site',
   'PREREQ_PM' => {
-                   'Carp' => 0,
-                   'Perl::Lint' => '0.21',
-                   'Git::Repository::Plugin::Blame' => 0,
-                   'Test::FailWarnings' => 0,
-                   'Test::Exception' => 0,
-                   'Test::More' => 0,
-                   'File::Basename' => 0,
-                   'Test::Requires::Git' => '1.005',
                    'Git::Repository' => 0,
-                   'File::Path' => 0,
-                   'Data::Dumper' => 0,
+                   'Perl::Lint' => '0.21',
+                   'File::Basename' => 0,
+                   'Test::Exception' => 0,
+                   'Test::FailWarnings' => 0,
+                   'Test::Requires::Git' => '1.005',
+                   'Test::Git' => 0,
                    'Test::Deep' => 0,
-                   'Test::Git' => 0
-                 }
+                   'Carp' => 0,
+                   'Test::More' => 0,
+                   'Data::Dumper' => 0,
+                   'File::Path' => 0,
+                   'Git::Repository::Plugin::Blame' => 0
+                 },
+  'VERSION_FROM' => 'lib/Perl/Lint/Git.pm',
+  'EXE_FILES' => [],
+  'NAME' => 'Perl::Lint::Git'
 )
 ;
